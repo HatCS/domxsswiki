@@ -1,9 +1,6 @@
- 
-= Glossary =
-
-*Source:*
+ - **Source**
 an input that could be controlled by an external (untrusted) source.
 
-*Sink:*
+ - **Sink**
 a sink is a potentially dangerous method that could lead to a vulnerability.
 In this case a DOM Based Xss.
