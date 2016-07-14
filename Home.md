@@ -12,6 +12,8 @@ Warm thanks to the following active contributors:
 
   * Mario Heiderich
   * Frederik Braun
+  * Giuseppe Trotta
+
 
 
 ### Feel free to collaborate!
