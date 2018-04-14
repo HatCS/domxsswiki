@@ -4,12 +4,12 @@ In software security the sources are to be considered starting points where untr
 
 Sinks are meant to be the points in the flow where data depending from sources is used in a potentially dangerous way resulting in loss of Confidentiality, Integrity or Availability (the CIA triad).
 
-##Summary
+## Summary
  * [Direct Execution Sinks](Direct-Execution-Sinks)
  * [Set Object Sinks](Set-Object-sinks)
  * [HTML Manipulation Sinks](HTML-Manipulation-sinks)
  * [Style Sinks](Style-sinks)
-   * [CSSText Sink](CSS-Text-Sink)
+ * [CSSText Sink](CSS-Text-Sink)
  * [XMLHttpRequest Sink](XMLHttpRequest-sink)
  * [Set Cookie Sink](Set-Cookie-sink)
  * [Set Location Sink](Set-location-sink)
