@@ -24,7 +24,7 @@ The following regular expression attempts to match most common DOMXSS sinks (BET
 
 This regular expression finds sinks based on jQuery, it also finds the  `$` function, which is not always insecure:
 ```js
-/after\(|\.append\(|\.before\(|\.html\(|\.prepend\(|\.replaceWith\(|\.wrap\(|\.wrapAll\(|\$\(|\.globalEval\(|\.add\(|jQUery\(|\$\(|\.parseHTML\(/
+/after\(|\.append\(|\.before\(|\.html\(|\.prepend\(|\.replaceWith\(|\.wrap\(|\.wrapAll\(|\$\(|\.globalEval\(|\.add\(|jQuery\(|\$\(|\.parseHTML\(/
 ```
 
 ## Meta-Programming
