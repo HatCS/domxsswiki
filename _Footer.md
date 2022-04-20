@@ -1,6 +1,6 @@
 Hello,
 
-Kei is lame, at0m was here. 
+Kei was here.
 
 I am sorry, but it seems like I am able to edit this page.
 
