@@ -1,6 +1,6 @@
 Hello,
 
-Kei was here. 
+Master Scammer Kei was here. 
 
 I am sorry, but it seems like I am able to edit this page.
 
